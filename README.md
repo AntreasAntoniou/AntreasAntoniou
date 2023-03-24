@@ -1,6 +1,6 @@
 ![]()
 <p align="center">
-  <img width="480" src="https://raw.githubusercontent.com/AntreasAntoniou/github-stats/7702b9b9217b41bf0275e599ced9406fd6faf959/generated/overview.svg">
+  <img width="480" src="https://github.com/AntreasAntoniou/github-stats/blob/master/generated/overview.svg">
 </p>
 
 ## Antreas Antoniou
