@@ -36,7 +36,7 @@ I build AI systems that are **efficient**, **adaptive**, and **grounded in funda
 - **PhD in Machine Learning** — University of Edinburgh (Meta-Learning & Few-Shot Learning)
 - **Research Intern** — Google (Few-Shot Learning)
 - **Speech Scientist Intern** — Amazon (Alexa/Echo)
-- **100+ citations** on meta-learning survey paper
+- **Thousands of citations** across published work
 
 ---
 
