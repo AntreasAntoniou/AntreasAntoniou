@@ -26,7 +26,7 @@ I build AI systems that are **efficient**, **adaptive**, and **grounded in funda
   <img
     src="https://raw.githubusercontent.com/AntreasAntoniou/github-stats/master/generated/overview.svg"
     alt="GitHub Stats"
-    width="1000"
+    width="768"
   />
 </p>
 
