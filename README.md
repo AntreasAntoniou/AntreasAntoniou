@@ -23,7 +23,11 @@ I build AI systems that are **efficient**, **adaptive**, and **grounded in funda
 - Published at **NeurIPS 2024**, **ICML 2023**, **ICLR 2023**
 
 <p align="center">
-  <img src="https://github.com/AntreasAntoniou/github-stats/blob/master/generated/overview.svg" alt="GitHub Stats">
+  <img
+    src="https://raw.githubusercontent.com/AntreasAntoniou/github-stats/master/generated/overview.svg"
+    alt="GitHub Stats"
+    width="1000"
+  />
 </p>
 
 
