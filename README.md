@@ -22,6 +22,11 @@ I build AI systems that are **efficient**, **adaptive**, and **grounded in funda
 - Co-organized the [International Workshop on Efficient Generative AI 2024](https://efficient-generative-ai.github.io)
 - Published at **NeurIPS 2024**, **ICML 2023**, **ICLR 2023**
 
+<p align="center">
+  <img src="https://github.com/AntreasAntoniou/github-stats/blob/master/generated/overview.svg" alt="GitHub Stats">
+</p>
+
+
 ### Selected Work
 
 | Project | Description |
@@ -47,6 +52,3 @@ I build AI systems that are **efficient**, **adaptive**, and **grounded in funda
   <a href="https://www.linkedin.com/in/antreas-antoniou-0692579a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/AntreasAntoniou/github-stats/blob/master/generated/overview.svg" alt="GitHub Stats">
-</p>
