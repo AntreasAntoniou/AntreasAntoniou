@@ -1,5 +1,5 @@
 
-<p align="left">
+<p align="center">
   <img
     src="https://raw.githubusercontent.com/AntreasAntoniou/github-stats/master/generated/overview.svg"
     alt="GitHub Stats"
