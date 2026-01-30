@@ -1,4 +1,4 @@
-# Hey, I'm Antreas
+# Believe in the me who believes in you 😎
 
 **AI Researcher & Engineer** | PhD in Machine Learning | Building efficient, creative AI systems
 
