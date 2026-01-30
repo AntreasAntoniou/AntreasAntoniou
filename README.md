@@ -1,3 +1,12 @@
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/AntreasAntoniou/github-stats/master/generated/overview.svg"
+    alt="GitHub Stats"
+    width="768"
+  />
+</p>
+
 # Hey! Nice to meet you! I am Antreas :)
 
 **AI Researcher & Engineer** | PhD in Machine Learning | Building efficient, creative AI systems
@@ -22,13 +31,6 @@ I build AI systems that are **efficient**, **adaptive**, and **grounded in funda
 - Co-organized the [International Workshop on Efficient Generative AI 2024](https://efficient-generative-ai.github.io)
 - Published at **NeurIPS 2024**, **ICML 2023**, **ICLR 2023**
 
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/AntreasAntoniou/github-stats/master/generated/overview.svg"
-    alt="GitHub Stats"
-    width="768"
-  />
-</p>
 
 
 ### Selected Work
