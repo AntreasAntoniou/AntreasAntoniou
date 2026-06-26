@@ -11,7 +11,7 @@
 
 **AI Researcher & Engineer** | PhD in Machine Learning | Building efficient, creative AI systems
 
-Currently: **Cofounder & Research Lead** at [Axiotic AI](https://axiotic.ai) | **Principal Research Partner** at [Pieces](https://pieces.app)
+Currently: **Cofounder & Research Lead** at [Axiotic AI](https://axiotic.ai)
 
 ---
 
