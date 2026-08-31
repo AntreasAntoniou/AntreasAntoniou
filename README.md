@@ -49,6 +49,7 @@ I open-source the small pieces of agent infrastructure that make the difference 
 | Local operations | [**Local UIs**](https://github.com/AntreasAntoniou/local-uis) | Live discovery and a private launcher for locally running HTTP interfaces |
 | Cloud identity | [**GCP Keyless**](https://github.com/AntreasAntoniou/gcp-keyless) | Managed Google Cloud identity and GitHub OIDC federation without long-lived service-account keys |
 | Credential safety | [**Bitwarden Lease**](https://github.com/AntreasAntoniou/bitwarden-lease) | An owner-only, in-memory Bitwarden CLI lease for local macOS agents |
+| Inbox attention | [**Mailbutler**](https://github.com/AntreasAntoniou/mailbutler-agent-skill) | Narrative-aware, read-only inbox triage with prompt-injection defenses and separate approvals for drafting and sending |
 
 Each repository ships a root `SKILL.md` and an MIT licence. Install one directly with:
 
