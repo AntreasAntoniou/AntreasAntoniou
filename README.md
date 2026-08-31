@@ -31,6 +31,27 @@ I build AI systems that are **efficient**, **adaptive**, and **grounded in funda
 - Co-organized the [International Workshop on Efficient Generative AI 2024](https://efficient-generative-ai.github.io)
 - Published at **NeurIPS 2024**, **ICML 2023**, **ICLR 2023**
 
+### Public Agent Skills
+
+I open-source the small pieces of agent infrastructure that make the difference between a clever prompt and work you can inspect, challenge, and continue.
+
+| Surface | Skill | What it adds |
+|---|---|---|
+| Orchestration | [**Agent Orchestra**](https://github.com/AntreasAntoniou/agent-orchestra) | Composable multi-agent graphs with isolation, arbitration, adversarial review, and receipt-driven integration |
+| Verification | [**Plus Ultra**](https://github.com/AntreasAntoniou/plus-ultra) | Two blind proposals, one arbiter-approved plan, one implementation, and a fresh reality check |
+| Visual verification | [**Visual QA**](https://github.com/AntreasAntoniou/visual-qa) | Screenshot-first review through orthogonal expert lenses, followed by adversarial refutation |
+| Continuity | [**Cross-Agent Sync**](https://github.com/AntreasAntoniou/cross-agent-sync) | Local-first deterministic handoff between Claude Code, Codex, and shared workspaces |
+| Authorship | [**Doppel**](https://github.com/AntreasAntoniou/doppel) | A consent-first digital twin of your own writing voice with local provenance and human publication authority |
+| Credential safety | [**Bitwarden Lease**](https://github.com/AntreasAntoniou/bitwarden-lease) | An owner-only, in-memory Bitwarden CLI lease for local macOS agents |
+
+Each repository ships a root `SKILL.md` and an MIT licence. Install one directly with:
+
+```bash
+npx skills add AntreasAntoniou/agent-orchestra
+```
+
+**[Explore the complete skills catalogue →](https://antreas.io/skills/)**
+
 
 
 ### Selected Work
@@ -57,4 +78,3 @@ I build AI systems that are **efficient**, **adaptive**, and **grounded in funda
   <a href="https://twitter.com/AntreasAntworry"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
   <a href="https://www.linkedin.com/in/antreas-antoniou-0692579a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
-
