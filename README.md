@@ -53,8 +53,17 @@ I open-source the small pieces of agent infrastructure that make the difference 
 | Cloud identity | [**GCP Keyless**](https://github.com/AntreasAntoniou/gcp-keyless) | Managed Google Cloud identity and GitHub OIDC federation without long-lived service-account keys |
 | Credential safety | [**Bitwarden Lease**](https://github.com/AntreasAntoniou/bitwarden-lease) | An owner-only, in-memory Bitwarden CLI lease for local macOS agents |
 | Inbox attention | [**Mailbutler**](https://github.com/AntreasAntoniou/mailbutler-agent-skill) | Narrative-aware, read-only inbox triage with prompt-injection defenses and separate approvals for drafting and sending |
+| Continuity | [**Threadseer**](https://github.com/AntreasAntoniou/threadseer-agent-skill) | Turn approved transcripts into traceable decisions, unresolved disagreements and next actions. Source anchors keep institutional memory connected to what was actually said. |
+| Authorship | [**Doppel Gang**](https://github.com/AntreasAntoniou/doppel-gang) | Keep the author in charge while explicitly synthetic review lenses challenge the argument, evidence and wording. Optional Doppel-assisted drafting requires a separate request. |
+| Continuity | [**Back to the Chronicle**](https://github.com/AntreasAntoniou/back-to-the-chronicle) | Reconstruct project history from explicitly selected session logs, Git and surviving files. Keep witnessed events, inferred intent and gaps separate; reconstruction cannot recover uncaptured bytes. |
+| Development | [**Nexus**](https://github.com/AntreasAntoniou/nexus) | Map an unfamiliar repository, trace the parts relevant to the task and build a source-cited context pack. A bundled mapper makes the first pass portable. |
+| Research | [**ML Research Skeptical Audit**](https://github.com/AntreasAntoniou/ml-research-skeptical-audit) | Challenge an ML result at the code and experiment level: leakage, unfair comparisons, missing controls and claims that outrun evidence. An audit is not a completed reproduction. |
+| Research | [**ML Run Provenance**](https://github.com/AntreasAntoniou/ml-run-provenance) | Make experiment records explain why a run exists and which code, data and settings produced it. Preserve run context at creation instead of reconstructing its meaning from a dashboard later. |
+| Operations | [**Propagate**](https://github.com/AntreasAntoniou/propagate) | Identify where a reusable improvement belongs and which consumers need it. Review the propagation plan, apply only approved changes and verify each destination independently. |
+| Operations | [**Butler**](https://github.com/AntreasAntoniou/butler-agent-skill) | Give autonomous work a budget authority: inspect token estimates, account for GPU reservations and reconcile usage. The local cockpit starts empty; it is not a provider-enforced spending cap. |
+| Attention | [**Questlog**](https://github.com/AntreasAntoniou/questlog-agent-skill) | Keep commitments, waiting-on states and one next action in a readable Markdown ledger. A local cockpit adds capture and review without taking authority over messages or calendar changes. |
 
-All sixteen repositories include a `SKILL.md` entry point and an MIT licence. Archivum's skill lives in `skills/archivum/`; the others use the repository root. Install one directly with:
+All twenty-five repositories include a `SKILL.md` entry point and an MIT licence. Archivum's skill lives in `skills/archivum/`; the others use the repository root. Install one directly with:
 
 ```bash
 npx skills add AntreasAntoniou/agent-orchestra
