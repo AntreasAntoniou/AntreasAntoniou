@@ -42,8 +42,10 @@ I open-source the small pieces of agent infrastructure that make the difference 
 | Software delivery | [**Grade-A Pipeline**](https://github.com/AntreasAntoniou/grade-a-pipeline) | Codebase mapping, isolated worktrees, per-wave regression gates, and opt-in remote mutation |
 | Verification | [**Plus Ultra**](https://github.com/AntreasAntoniou/plus-ultra) | Two blind proposals, one arbiter-approved plan, one implementation, and a fresh reality check |
 | Visual verification | [**Visual QA**](https://github.com/AntreasAntoniou/visual-qa) | Screenshot-first review through orthogonal expert lenses, followed by adversarial refutation |
+| Verification | [**Heimdall**](https://github.com/AntreasAntoniou/heimdall) | Executable browser and API test plans with assertions, parallel drivers, and inspectable evidence |
 | Continuity | [**Cross-Agent Sync**](https://github.com/AntreasAntoniou/cross-agent-sync) | Local-first deterministic handoff between Claude Code, Codex, and shared workspaces |
 | Durable context | [**Argus**](https://github.com/AntreasAntoniou/argus-skill) | Route durable deltas to canonical Git-backed records and validate logical backlinks |
+| Continuity | [**Chronicle**](https://github.com/AntreasAntoniou/chronicle) | Operational history, recorded file recovery, explicit intent, and a local evidence canvas |
 | Authorship | [**Doppel**](https://github.com/AntreasAntoniou/doppel) | A consent-first digital twin of your own writing voice with local provenance and human publication authority |
 | Documents | [**Beautiful PDF**](https://github.com/AntreasAntoniou/beautiful-pdf) | Print-ready document design with reusable CSS and rendered-page visual review |
 | Local operations | [**Local UIs**](https://github.com/AntreasAntoniou/local-uis) | Live discovery and a private launcher for locally running HTTP interfaces |
