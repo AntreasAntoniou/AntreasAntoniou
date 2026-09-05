@@ -46,6 +46,7 @@ I open-source the small pieces of agent infrastructure that make the difference 
 | Continuity | [**Cross-Agent Sync**](https://github.com/AntreasAntoniou/cross-agent-sync) | Local-first deterministic handoff between Claude Code, Codex, and shared workspaces |
 | Durable context | [**Argus**](https://github.com/AntreasAntoniou/argus-skill) | Route durable deltas to canonical Git-backed records and validate logical backlinks |
 | Continuity | [**Chronicle**](https://github.com/AntreasAntoniou/chronicle) | Operational history, recorded file recovery, explicit intent, and a local evidence canvas |
+| Durable knowledge | [**Archivum**](https://github.com/AntreasAntoniou/archivum) | Git-backed project, decision, source, and evidence records that remain usable across conversations |
 | Authorship | [**Doppel**](https://github.com/AntreasAntoniou/doppel) | A consent-first digital twin of your own writing voice with local provenance and human publication authority |
 | Documents | [**Beautiful PDF**](https://github.com/AntreasAntoniou/beautiful-pdf) | Print-ready document design with reusable CSS and rendered-page visual review |
 | Local operations | [**Local UIs**](https://github.com/AntreasAntoniou/local-uis) | Live discovery and a private launcher for locally running HTTP interfaces |
@@ -53,7 +54,7 @@ I open-source the small pieces of agent infrastructure that make the difference 
 | Credential safety | [**Bitwarden Lease**](https://github.com/AntreasAntoniou/bitwarden-lease) | An owner-only, in-memory Bitwarden CLI lease for local macOS agents |
 | Inbox attention | [**Mailbutler**](https://github.com/AntreasAntoniou/mailbutler-agent-skill) | Narrative-aware, read-only inbox triage with prompt-injection defenses and separate approvals for drafting and sending |
 
-Each repository ships a root `SKILL.md` and an MIT licence. Install one directly with:
+All sixteen repositories include a `SKILL.md` entry point and an MIT licence. Archivum's skill lives in `skills/archivum/`; the others use the repository root. Install one directly with:
 
 ```bash
 npx skills add AntreasAntoniou/agent-orchestra
