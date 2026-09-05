@@ -62,8 +62,9 @@ I open-source the small pieces of agent infrastructure that make the difference 
 | Operations | [**Propagate**](https://github.com/AntreasAntoniou/propagate) | Identify where a reusable improvement belongs and which consumers need it. Review the propagation plan, apply only approved changes and verify each destination independently. |
 | Operations | [**Butler**](https://github.com/AntreasAntoniou/butler-agent-skill) | Give autonomous work a budget authority: inspect token estimates, account for GPU reservations and reconcile usage. The local cockpit starts empty; it is not a provider-enforced spending cap. |
 | Attention | [**Questlog**](https://github.com/AntreasAntoniou/questlog-agent-skill) | Keep commitments, waiting-on states and one next action in a readable Markdown ledger. A local cockpit adds capture and review without taking authority over messages or calendar changes. |
+| Attention | [**Reconnect**](https://github.com/AntreasAntoniou/reconnect) | Find relevant peers, collaborators and communities, explain why they fit, and track explicitly authorised connections. A private ledger preserves evidence and prevents duplicate batches. |
 
-All twenty-five repositories include a `SKILL.md` entry point and an MIT licence. Archivum's skill lives in `skills/archivum/`; the others use the repository root. Install one directly with:
+All twenty-six repositories include a `SKILL.md` entry point and an MIT licence. Archivum's skill lives in `skills/archivum/`; the others use the repository root. Install one directly with:
 
 ```bash
 npx skills add AntreasAntoniou/agent-orchestra
