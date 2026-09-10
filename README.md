@@ -33,6 +33,10 @@ I build AI systems that are **efficient**, **adaptive**, and **grounded in funda
 
 ### Open Agent Toolkit
 
+[![ClawHub downloads — dated total across the Agent Toolkit](https://raw.githubusercontent.com/AntreasAntoniou/antreasantoniou.github.io/main/data/clawhub-downloads.svg)](https://github.com/AntreasAntoniou/antreasantoniou.github.io/blob/main/data/README.md)
+
+ClawHub download events, not unique users. Refreshed daily; the badge shows its verification date. [Per-skill breakdown](https://github.com/AntreasAntoniou/antreasantoniou.github.io/blob/main/data/clawhub-downloads.json).
+
 I open-source the small pieces of agent infrastructure that make the difference between a clever prompt and work you can inspect, challenge, and continue.
 
 | Surface | Skill | What it adds |
