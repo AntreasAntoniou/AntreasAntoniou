@@ -67,8 +67,14 @@ I open-source the small pieces of agent infrastructure that make the difference 
 | Operations | [**Butler**](https://github.com/AntreasAntoniou/butler-agent-skill) | Give autonomous work a budget authority: inspect token estimates, account for GPU reservations and reconcile usage. The local cockpit starts empty; it is not a provider-enforced spending cap. |
 | Attention | [**Questlog**](https://github.com/AntreasAntoniou/questlog-agent-skill) | Keep commitments, waiting-on states and one next action in a readable Markdown ledger. A local cockpit adds capture and review without taking authority over messages or calendar changes. |
 | Attention | [**Reconnect**](https://github.com/AntreasAntoniou/reconnect) | Find relevant peers, collaborators and communities, explain why they fit, and track explicitly authorised connections. A private ledger preserves evidence and prevents duplicate batches. |
+| Continuity | [**Amber**](https://github.com/AntreasAntoniou/amber-agent-skill) | Preserve Claude Code and Codex session files in private snapshots. The portable runtime supports local or mounted sources, rejects unsafe paths and reports incomplete backups; it does not redact secrets from transcripts. |
+| Continuity | [**Session Atlas**](https://github.com/AntreasAntoniou/session-atlas-agent-skill) | Turn selected session history into a compact causal map with source-linked evidence. Index and validate private history while keeping remembered context separate from current authority. |
+| Operations | [**Pulse**](https://github.com/AntreasAntoniou/pulse) | Give recurring agent checks an exact target, notification rule, authority boundary and stopping condition. Includes Meta-Pulse for reviewing duplicate or obsolete watches; requires the host scheduler. |
+| Design | [**Davinci Mode**](https://github.com/AntreasAntoniou/davinci-mode) | Explore straightforward, hybrid and creative approaches with concrete tradeoffs and a reasoned recommendation. Keeps alternatives viable and stops reopening the decision once you choose. |
+| Research | [**Experiment Framework**](https://github.com/AntreasAntoniou/experiment-framework) | Specify, plan and audit reproducible ML runs with source revisions, provenance and artifact links. Includes the runtime; remote execution needs configured providers, credentials and explicit budget authority. |
+| Continuity | [**Transfer Consciousness**](https://github.com/AntreasAntoniou/transfer-consciousness) | Prepare a source-linked continuation brief and verify a single-owner handoff across hosts. Separates readiness, quiescence and ownership; instructions are not live process migration or a distributed lock. |
 
-All twenty-six repositories include a `SKILL.md` entry point and an MIT licence. Archivum's skill lives in `skills/archivum/`; the others use the repository root. Install one directly with:
+All thirty-two repositories include a `SKILL.md` entry point and an MIT licence. Archivum's skill lives in `skills/archivum/`; the others use the repository root. Install one directly with:
 
 ```bash
 npx skills add AntreasAntoniou/agent-orchestra
