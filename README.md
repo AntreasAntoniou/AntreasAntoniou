@@ -73,7 +73,7 @@ I open-source the small pieces of agent infrastructure that make the difference 
 | Design | [**Davinci Mode**](https://github.com/AntreasAntoniou/davinci-mode) | Explore straightforward, hybrid and creative approaches with concrete tradeoffs and a reasoned recommendation. Keeps alternatives viable and stops reopening the decision once you choose. |
 | Research | [**Experiment Framework**](https://github.com/AntreasAntoniou/experiment-framework) | Specify, plan and audit reproducible ML runs with source revisions, provenance and artifact links. Includes the runtime; remote execution needs configured providers, credentials and explicit budget authority. |
 | Continuity | [**Transfer Consciousness**](https://github.com/AntreasAntoniou/transfer-consciousness) | Prepare a source-linked continuation brief and verify a single-owner handoff across hosts. Separates readiness, quiescence and ownership; instructions are not live process migration or a distributed lock. |
-| Development | [**Daedalus**](https://github.com/AntreasAntoniou/daedalus-agent-skill) | Implement, refactor and debug with failing tests or falsifiable measurements, minimal edits, reviewed diffs and reader-focused documentation. |
+| Development | [**Daedalus**](https://github.com/AntreasAntoniou/daedalus-agent-skill) | Implement, refactor and debug with failing tests or falsifiable measurements, minimal edits, reviewed diffs and reader-focused documentation. Includes a directory mapper and local/remote content ingestion. |
 
 All thirty-three repositories include a `SKILL.md` entry point and an MIT licence. Archivum's skill lives in `skills/archivum/`; the others use the repository root. Install one directly with:
 
